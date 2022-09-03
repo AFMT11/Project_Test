@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662235182 source:e:\atef\nasr 40\git_tool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1662234603 e:\atef\nasr 40\git_tool\head.h
+
+1662235119 source:e:\atef\nasr 40\git_tool\head.c
+	"Head.h"
+
